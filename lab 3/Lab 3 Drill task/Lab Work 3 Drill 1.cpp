@@ -20,4 +20,5 @@ int main()
     cout<<"Resistance = "<<resistance<<endl; // resistance display
 
     return 0;   // program end
+
 }
